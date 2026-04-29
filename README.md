@@ -1,2 +1,6 @@
-# LAB2_202304613-2_202203026-7
-Laboratorio 2 de Arquitectura y Organización de Computadores 2026-1
+# Laboratorio 1: Arquitectura y Organización de Computadores
+
+## 1. Integrantes
+* **Nombre:** Isidora Villegas | **Rol:** 202203026-7
+* **Nombre:** Héctor Chanampe | **Rol:** 202304613-2
+* **Paralelo:** 201
